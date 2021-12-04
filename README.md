@@ -1,6 +1,6 @@
 # React Projects
 
-#### Original: John Smilga
+#### Original Creator: John Smilga
 
 Tutorials [https://www.johnsmilga.com/]
 
