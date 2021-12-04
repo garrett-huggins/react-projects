@@ -1,6 +1,6 @@
-# React Projects by John Smilga
+# React Projects
 
-#### Make Sure To Support The Creator
+#### Creator: John Smilga
 
 Tutorials [https://www.johnsmilga.com/]
 
