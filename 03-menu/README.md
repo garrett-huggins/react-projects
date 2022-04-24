@@ -6,4 +6,5 @@ Menu app that can filter by categories
 
 - React DOM
 - React Components and Props
+- UseState
 - Conditional Rendering
