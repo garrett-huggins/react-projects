@@ -6,10 +6,6 @@ Tutorials [https://www.johnsmilga.com/]
 
 YouTube [https://www.youtube.com/c/CodingAddict]
 
-#### Advanced Projects (Course Exclusive)
-
-[Course Link](https://www.udemy.com/course/react-tutorial-and-projects-course/?couponCode=REACT-OCT)
-
 ## Corresponding Tutorial Topics
 
 #### useState
