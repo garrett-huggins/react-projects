@@ -1,3 +1,9 @@
 ## Idea
 
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+Simple birthday reminder app using premade CSS, focusing on understanding simple react concepts.
+
+### React Concepts
+
+-React DOM
+-React Components
+-UseState
