@@ -4,6 +4,6 @@ Simple birthday reminder app using premade CSS, focusing on understanding simple
 
 ### React Concepts
 
--React DOM
--React Components
--UseState
+- React DOM
+- React Components and Props
+- UseState
