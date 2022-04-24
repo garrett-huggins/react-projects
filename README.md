@@ -21,21 +21,21 @@ YouTube [https://www.youtube.com/c/CodingAddict]
 
 4. Lorem Ipsum Generator
 5. Color Shades Generator
-6. Grocery Bud
+6. Grocery Bud (in progress)
 
 #### useRef
 
-7. Navbar
+7. Navbar (in progress)
 
 #### useContext
 
-8. Modal And Sidebar
-9. Stripe Submenus
+8. Modal And Sidebar (in progress)
+9. Stripe Submenus (in progress)
 
 #### useReducer and useContext
 
-10. Cart
+10. Cart (in progress)
 
 #### React Router and useCallback
 
-11. Cocktails
+11. Cocktails (in progress)
